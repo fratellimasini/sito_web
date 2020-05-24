@@ -1,0 +1,50 @@
+<html>
+	<head>
+		<title> La mia pagina web </title>
+	</head>
+
+	<body>
+		<h1> I geni associati </h1>
+		<h2> Cosa sono e come hanno sconvolto la genetica mendeliana </h2>
+		<p> I geni localizzati uno vicino all’altro sullo stesso cromosoma si chiamano <b> geni associati (concatenati, in linkage) </b> e fanno parte del medesimo gruppo di linkage o di associazione. I geni associati si muovono insieme durante la meiosi, alla fine giungono alla medesima destinazione (lo stesso gamete) e non ci si aspetta che si assortiscano in modo indipendente.</p>
+		<p> I geni che si trovano su cromosomi diversi sono distribuiti nei gameti indipendentemente l'uno dall'altro (legge di Mendel dell'assortimento indipendente). <b> I geni che si trovano sullo stesso cromosoma, invece, tendono </b> a <i> stare insieme durante la formazione di gameti </i>. Cosi’ i risultati ottenuti sottoponendo individui diibridi a un testcross o incrocio di prova saranno diversi secondo che i geni siano associati oppure si trovino su cromosomi diversi. </p>
+		<p> E' possibile trovare tutte le informazioni necessarie su questo sito <a href="https://www.uniba.it/docenti/viggiano-luigi/attivita-didattica/lezione-11-sn.pdf"> PowerPoint1 </a> </p>
+		<img src= "https://image2.slideserve.com/3857226/slide9-l.jpg"/>
+		<img src= "https://docplayer.it/docs-images/49/20739784/images/page_6.jpg" />
+		<p> Quando fra due loci genici si forma un chiasma, solo la metà dei prodotti meiotici sarà del tipo che ha subito il crossing over. Quindi la frequenza dei chiasmi e’ doppia di quella dei prodotti che hanno subito il crossing-over. </p>
+		<ul>
+			<li> % di chiasmi= 2(% di crossing over) </li>
+			<li> % di crossing over = 1/2 (% di chiasmi) </li>
+		<ul>
+
+		<p> Di solito si verifica un certo numero di crossing-over fra i geni che sono posti sullo stesso cromosoma e in tal modo si producono nuove combinazioni di caratteri. I geni soggetti a crossing-over sono associati in maniera incompleta. L’effetto del crossing-over sulla trasmissione ereditaria di due geni associati. Il crossing-over consiste nello scambio di materiale genetico fra cromatidi non fratelli. Dopo che c’è stato un singolo crossing-over, i due cromatidi che non vi sono stati coinvolti rimangono inalterati; i gameti che ricevono questi cromatidi sono non ricombinanti. Gli altri due cromatidi, quelli che hanno preso parte al crossing-over, adesso contengono nuove combinazioni di alleli; i gameti che ricevono questi cromatidi sono ricombinanti. Per ogni meiosi in cui avviene un crossing-over si produrranno due gameti non ricombinanti e due gameti ricombinanti. Tale risultato è analogo a quello prodotto dall’assortimento indipendente. </p>
+		<p> Per i geni strettamente associati, il crossing-over non si verifica in ogni meiosi. Nelle meiosi in cui non avviene nel crossingover si producono solo gameti non ricombinanti. Nelle meiosi in cui si verifica un solo crossing-over, metà dei gameti sono ricombinanti e metà sono non ricombinanti, in quanto un singolo crossing-over ha effetto solo su due dei quattro cromatidi. Dal momento che ogni crossing-over determina la produzione di una metà di gameti ricombinanti e un’altra metà di gameti non ricombinanti, la percentuale totale dei ricombinanti è sempre la metà della percentuale delle meiosi in cui avviene il crossing-over. Anche se il crossing-over fra due geni si verifica in tutte le meiosi, sarà ricombinante al massimo il 50% dei gameti che ne derivano. In definitiva la frequenza dei gameti ricombinanti è sempre la metà della frequenza dei crossing-over e la quantità massima di gameti ricombinanti è il 50%. </p>
+		<p> La percentuale di progenie ricombinante prodotta in un incrocio è detta frequenza di ricombinazione e si calcola nel modo seguente: 
+			frequenza di ricombinazione = numerosità della progenie ricombinante/ numerosità totale della progenie
+		</p>
+		<p> Esempi: </p>
+		<table>
+			<tr><td>N tot progenie </td><td>N ricombinante </td><td> Frequenza di ricombinazione </td></tr>
+			<tr><td>235 </td><td>24</td><td> 10.2 UM(%) </td></tr>
+			<tr><td>3248 </td><td>2465</td><td> 75.9 UM(%)</td></tr>
+			<tr><td>24</td><td>3</td><td> 12.5 UM(%)</td></tr>
+		</table>
+		<p> 
+
+
+
+
+
+		</p>
+		<ol>
+			<li> Approfondimento=<a href="file:///C:/Users/Fratelli%20Masini/Downloads/Esercizi_svolti_Genetica.pdf"> I_Geni_Associati:Approfondimento </a> </li>
+			<li> Esercizi 1= <a href="https://elearning.uniroma1.it/pluginfile.php/208590/mod_resource/content/1/Esercizi_2014.pdf"> Es1 </a> </li>
+			<li> Esercizi 2=<a href= "file:///C:/Users/Fratelli%20Masini/Downloads/sadava_b1.pdf"> Es2 </a> </li>
+			<li> Genetica in generale=<a href="http://www.genopomii.unina.it/genohort/files/mappatura%20genetica%20ore%209-10.pdf"> GIG </a> </li>
+		</ol>
+		
+
+
+	</body>
+
+</html>
